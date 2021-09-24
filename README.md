@@ -1,4 +1,4 @@
-# widgetdisable
+# WidgetDisable
 Windows 11 Widget Disabler by Automation Scripts
 
 You can disable Widgets in Windows 11 by using this script.
